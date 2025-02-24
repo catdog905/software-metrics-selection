@@ -1,0 +1,7 @@
+*.zip
+*.dill
+
+*.swp
+
+data/
+.ipynb_checkpoints/
